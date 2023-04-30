@@ -3,7 +3,7 @@ package shs.polum.back.book;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 import shs.polum.back.exception.ResourceNotFoundException;
-import shs.sheilaJava.polum.exception.ValidationException;
+import shs.polum.back.exception.ValidationException;
 
 import java.util.List;
 

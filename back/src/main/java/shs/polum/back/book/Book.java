@@ -5,8 +5,8 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import shs.sheilaJava.polum.library.Library;
-import shs.sheilaJava.polum.user.User;
+import shs.polum.back.library.Library;
+import shs.polum.back.user.User;
 
 @Entity
 @Table(name = "books")
